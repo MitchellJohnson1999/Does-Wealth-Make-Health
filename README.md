@@ -1,6 +1,7 @@
 # Does Wealth Make Health?
-Life expectancy is a widely used indicator of the health of a population.This project will seek to explore the following questions:      
+This project showcases an exploratory analysis of datasets from 'Our World In Data.'
 
-1. Which is more strongly associated with a nation's average life expectancy, the nation's overall wealth, or its wealth inequality?
-2. How do these associations change when we look at wealthier countries?
+Specifically, the project takes a look at datasets on a nation's average life expectancy, GDP per capita, and the Gini Coefficient.
+
+The analysis involves cleaning and merging these datasets. Additionally, the project examines linear regressions and Pearson Correlations to examine trends in the data.
 
