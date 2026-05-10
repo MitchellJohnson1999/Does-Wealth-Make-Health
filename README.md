@@ -3,5 +3,5 @@ This project showcases an exploratory analysis of datasets from 'Our World In Da
 
 Specifically, the project takes a look at datasets on a nation's average life expectancy, GDP per capita, and the Gini Coefficient.
 
-The analysis involves cleaning and merging these datasets. Additionally, the project examines linear regressions and Pearson Correlations to examine trends in the data.
+The analysis involves cleaning and merging these datasets. Additionally, the project examines linear regressions and Pearson Correlations to help visualize trends in the data.
 
